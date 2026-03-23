@@ -107,11 +107,19 @@
         "blog/index.html": 1,
         "blog/secondpost/index.html": 1,
         "blog/thirdpost/index.html": 1,
+        "fr/404.html": 1,
+        "fr/about/index.html": 1,
         "fr/blog/firstpost/index.html": 1,
         "fr/blog/fourthpost/index.html": 1,
         "fr/blog/index.html": 1,
         "fr/blog/secondpost/index.html": 1,
         "fr/blog/thirdpost/index.html": 1,
+        "fr/index.html": 1,
+        "fr/tags/another-tag/index.html": 1,
+        "fr/tags/index.html": 1,
+        "fr/tags/number-2/index.html": 1,
+        "fr/tags/posts-with-two-tags/index.html": 1,
+        "fr/tags/second-tag/index.html": 1,
         "index.html": 1,
         "tags/another-tag/index.html": 1,
         "tags/index.html": 1,
@@ -119,23 +127,25 @@
         "tags/posts-with-two-tags/index.html": 1,
         "tags/second-tag/index.html": 1
       },
-      "total": 18
+      "total": 26
     },
     "index:latest-posts-heading": {
       "original": "Latest 3 Posts",
       "value": null,
       "pages": {
+        "fr/index.html": 1,
         "index.html": 1
       },
-      "total": 1
+      "total": 2
     },
     "index:more-posts": {
       "original": "1 more post can be found in <a href=\"/blog/\">the archive</a>.",
       "value": null,
       "pages": {
+        "fr/index.html": 1,
         "index.html": 1
       },
-      "total": 1
+      "total": 2
     },
     "nav:about": {
       "original": "About",
@@ -148,11 +158,19 @@
         "blog/index.html": 1,
         "blog/secondpost/index.html": 1,
         "blog/thirdpost/index.html": 1,
+        "fr/404.html": 1,
+        "fr/about/index.html": 1,
         "fr/blog/firstpost/index.html": 1,
         "fr/blog/fourthpost/index.html": 1,
         "fr/blog/index.html": 1,
         "fr/blog/secondpost/index.html": 1,
         "fr/blog/thirdpost/index.html": 1,
+        "fr/index.html": 1,
+        "fr/tags/another-tag/index.html": 1,
+        "fr/tags/index.html": 1,
+        "fr/tags/number-2/index.html": 1,
+        "fr/tags/posts-with-two-tags/index.html": 1,
+        "fr/tags/second-tag/index.html": 1,
         "index.html": 1,
         "tags/another-tag/index.html": 1,
         "tags/index.html": 1,
@@ -160,7 +178,7 @@
         "tags/posts-with-two-tags/index.html": 1,
         "tags/second-tag/index.html": 1
       },
-      "total": 18
+      "total": 26
     },
     "nav:archive": {
       "original": "Archive",
@@ -173,11 +191,19 @@
         "blog/index.html": 1,
         "blog/secondpost/index.html": 1,
         "blog/thirdpost/index.html": 1,
+        "fr/404.html": 1,
+        "fr/about/index.html": 1,
         "fr/blog/firstpost/index.html": 1,
         "fr/blog/fourthpost/index.html": 1,
         "fr/blog/index.html": 1,
         "fr/blog/secondpost/index.html": 1,
         "fr/blog/thirdpost/index.html": 1,
+        "fr/index.html": 1,
+        "fr/tags/another-tag/index.html": 1,
+        "fr/tags/index.html": 1,
+        "fr/tags/number-2/index.html": 1,
+        "fr/tags/posts-with-two-tags/index.html": 1,
+        "fr/tags/second-tag/index.html": 1,
         "index.html": 1,
         "tags/another-tag/index.html": 1,
         "tags/index.html": 1,
@@ -185,7 +211,7 @@
         "tags/posts-with-two-tags/index.html": 1,
         "tags/second-tag/index.html": 1
       },
-      "total": 18
+      "total": 26
     },
     "nav:feed": {
       "original": "Feed",
@@ -198,11 +224,19 @@
         "blog/index.html": 1,
         "blog/secondpost/index.html": 1,
         "blog/thirdpost/index.html": 1,
+        "fr/404.html": 1,
+        "fr/about/index.html": 1,
         "fr/blog/firstpost/index.html": 1,
         "fr/blog/fourthpost/index.html": 1,
         "fr/blog/index.html": 1,
         "fr/blog/secondpost/index.html": 1,
         "fr/blog/thirdpost/index.html": 1,
+        "fr/index.html": 1,
+        "fr/tags/another-tag/index.html": 1,
+        "fr/tags/index.html": 1,
+        "fr/tags/number-2/index.html": 1,
+        "fr/tags/posts-with-two-tags/index.html": 1,
+        "fr/tags/second-tag/index.html": 1,
         "index.html": 1,
         "tags/another-tag/index.html": 1,
         "tags/index.html": 1,
@@ -210,7 +244,7 @@
         "tags/posts-with-two-tags/index.html": 1,
         "tags/second-tag/index.html": 1
       },
-      "total": 18
+      "total": 26
     },
     "nav:home": {
       "original": "Home",
@@ -223,11 +257,19 @@
         "blog/index.html": 1,
         "blog/secondpost/index.html": 1,
         "blog/thirdpost/index.html": 1,
+        "fr/404.html": 1,
+        "fr/about/index.html": 1,
         "fr/blog/firstpost/index.html": 1,
         "fr/blog/fourthpost/index.html": 1,
         "fr/blog/index.html": 1,
         "fr/blog/secondpost/index.html": 1,
         "fr/blog/thirdpost/index.html": 1,
+        "fr/index.html": 1,
+        "fr/tags/another-tag/index.html": 1,
+        "fr/tags/index.html": 1,
+        "fr/tags/number-2/index.html": 1,
+        "fr/tags/posts-with-two-tags/index.html": 1,
+        "fr/tags/second-tag/index.html": 1,
         "index.html": 1,
         "tags/another-tag/index.html": 1,
         "tags/index.html": 1,
@@ -235,7 +277,7 @@
         "tags/posts-with-two-tags/index.html": 1,
         "tags/second-tag/index.html": 1
       },
-      "total": 18
+      "total": 26
     },
     "site-title": {
       "original": "Eleventy Base Blog v9",
@@ -248,11 +290,19 @@
         "blog/index.html": 1,
         "blog/secondpost/index.html": 1,
         "blog/thirdpost/index.html": 1,
+        "fr/404.html": 1,
+        "fr/about/index.html": 1,
         "fr/blog/firstpost/index.html": 1,
         "fr/blog/fourthpost/index.html": 1,
         "fr/blog/index.html": 1,
         "fr/blog/secondpost/index.html": 1,
         "fr/blog/thirdpost/index.html": 1,
+        "fr/index.html": 1,
+        "fr/tags/another-tag/index.html": 1,
+        "fr/tags/index.html": 1,
+        "fr/tags/number-2/index.html": 1,
+        "fr/tags/posts-with-two-tags/index.html": 1,
+        "fr/tags/second-tag/index.html": 1,
         "index.html": 1,
         "tags/another-tag/index.html": 1,
         "tags/index.html": 1,
@@ -260,7 +310,7 @@
         "tags/posts-with-two-tags/index.html": 1,
         "tags/second-tag/index.html": 1
       },
-      "total": 18
+      "total": 26
     },
     "skip-link": {
       "original": "Skip to main content",
@@ -273,11 +323,19 @@
         "blog/index.html": 1,
         "blog/secondpost/index.html": 1,
         "blog/thirdpost/index.html": 1,
+        "fr/404.html": 1,
+        "fr/about/index.html": 1,
         "fr/blog/firstpost/index.html": 1,
         "fr/blog/fourthpost/index.html": 1,
         "fr/blog/index.html": 1,
         "fr/blog/secondpost/index.html": 1,
         "fr/blog/thirdpost/index.html": 1,
+        "fr/index.html": 1,
+        "fr/tags/another-tag/index.html": 1,
+        "fr/tags/index.html": 1,
+        "fr/tags/number-2/index.html": 1,
+        "fr/tags/posts-with-two-tags/index.html": 1,
+        "fr/tags/second-tag/index.html": 1,
         "index.html": 1,
         "tags/another-tag/index.html": 1,
         "tags/index.html": 1,
@@ -285,79 +343,88 @@
         "tags/posts-with-two-tags/index.html": 1,
         "tags/second-tag/index.html": 1
       },
-      "total": 18
+      "total": 26
     },
     "tags/another-tag:heading": {
       "original": "Tagged \"another tag\"",
       "value": null,
       "pages": {
+        "fr/tags/another-tag/index.html": 1,
         "tags/another-tag/index.html": 1
       },
-      "total": 1
+      "total": 2
     },
     "tags/another-tag:see-all-tags": {
       "original": "See <a href=\"/tags/\">all tags</a>.",
       "value": null,
       "pages": {
+        "fr/tags/another-tag/index.html": 1,
         "tags/another-tag/index.html": 1
       },
-      "total": 1
+      "total": 2
     },
     "tags/number-2:heading": {
       "original": "Tagged \"number 2\"",
       "value": null,
       "pages": {
+        "fr/tags/number-2/index.html": 1,
         "tags/number-2/index.html": 1
       },
-      "total": 1
+      "total": 2
     },
     "tags/number-2:see-all-tags": {
       "original": "See <a href=\"/tags/\">all tags</a>.",
       "value": null,
       "pages": {
+        "fr/tags/number-2/index.html": 1,
         "tags/number-2/index.html": 1
       },
-      "total": 1
+      "total": 2
     },
     "tags/posts-with-two-tags:heading": {
       "original": "Tagged \"posts with two tags\"",
       "value": null,
       "pages": {
+        "fr/tags/posts-with-two-tags/index.html": 1,
         "tags/posts-with-two-tags/index.html": 1
       },
-      "total": 1
+      "total": 2
     },
     "tags/posts-with-two-tags:see-all-tags": {
       "original": "See <a href=\"/tags/\">all tags</a>.",
       "value": null,
       "pages": {
+        "fr/tags/posts-with-two-tags/index.html": 1,
         "tags/posts-with-two-tags/index.html": 1
       },
-      "total": 1
+      "total": 2
     },
     "tags/second-tag:heading": {
       "original": "Tagged \"second tag\"",
       "value": null,
       "pages": {
+        "fr/tags/second-tag/index.html": 1,
         "tags/second-tag/index.html": 1
       },
-      "total": 1
+      "total": 2
     },
     "tags/second-tag:see-all-tags": {
       "original": "See <a href=\"/tags/\">all tags</a>.",
       "value": null,
       "pages": {
+        "fr/tags/second-tag/index.html": 1,
         "tags/second-tag/index.html": 1
       },
-      "total": 1
+      "total": 2
     },
     "tags:heading": {
       "original": "Tags",
       "value": null,
       "pages": {
+        "fr/tags/index.html": 1,
         "tags/index.html": 1
       },
-      "total": 1
+      "total": 2
     }
   }
 }

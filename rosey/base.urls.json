@@ -43,6 +43,18 @@
       "pages": {},
       "total": 0
     },
+    "fr/404.html": {
+      "original": "fr/404.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "fr/about/index.html": {
+      "original": "fr/about/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
     "fr/blog/firstpost/index.html": {
       "original": "fr/blog/firstpost/index.html",
       "value": null,
@@ -69,6 +81,42 @@
     },
     "fr/blog/thirdpost/index.html": {
       "original": "fr/blog/thirdpost/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "fr/index.html": {
+      "original": "fr/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "fr/tags/another-tag/index.html": {
+      "original": "fr/tags/another-tag/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "fr/tags/index.html": {
+      "original": "fr/tags/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "fr/tags/number-2/index.html": {
+      "original": "fr/tags/number-2/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "fr/tags/posts-with-two-tags/index.html": {
+      "original": "fr/tags/posts-with-two-tags/index.html",
+      "value": null,
+      "pages": {},
+      "total": 0
+    },
+    "fr/tags/second-tag/index.html": {
+      "original": "fr/tags/second-tag/index.html",
       "value": null,
       "pages": {},
       "total": 0

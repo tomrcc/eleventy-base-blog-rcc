@@ -73,7 +73,7 @@
 		<script type="module" src="{% getBundleFileUrl "js" %}"></script>
 		<script eleventy:ignore>
 			if (window?.inEditorMode) {
-				import("rosey-cloudcannon-connector");
+				import("/_rcc/injector.mjs");
 			}
 		</script>
 	</body>
