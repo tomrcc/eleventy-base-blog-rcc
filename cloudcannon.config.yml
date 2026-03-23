@@ -1,0 +1,15 @@
+paths:
+  static: ''
+  uploads: uploads
+timezone: Pacific/Auckland
+markdown:
+  engine: commonmark
+  options:
+    html: true
+collections_config:
+  pages:
+    path: content
+    icon: wysiwyg
+  blog:
+    path: content/blog
+    icon: event_available
