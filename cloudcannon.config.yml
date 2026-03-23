@@ -8,6 +8,8 @@ collections_config:
       - '!404.md'
       - '!sitemap.xml.njk'
       - '!tag-pages.njk'
+      - '!fr-blog.njk'
+      - '!blog_fr/**'
     icon: wysiwyg
     url: /[slug]/
     disable_url: false
@@ -21,8 +23,36 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+  blog_fr:
+    path: content/blog_fr
+    name: Blog (French)
+    icon: event_available
+    url: /fr/blog/[slug]/
+  locales:
+    path: rosey/locales
+    name: Locales
+    icon: translate
+    disable_add: true
+    disable_add_folder: true
+    disable_file_actions: true
+    _inputs:
+      value:
+        type: html
+        label: Translation
+        cascade: true
+      original:
+        hidden: true
+        cascade: true
+      _base_original:
+        disabled: true
+        hidden: false
+        label: Original Text
+        cascade: true
 timezone: Pacific/Auckland
 markdown:
   engine: commonmark
   options:
     html: true
+data_config:
+  locales_fr:
+    path: rosey/locales/fr.json

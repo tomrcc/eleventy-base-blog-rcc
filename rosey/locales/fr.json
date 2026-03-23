@@ -1,0 +1,147 @@
+{
+  "blog:heading": {
+    "original": "Archive",
+    "value": "Archive",
+    "_base_original": "Archive"
+  },
+  "blog/firstpost:next-label": {
+    "original": "Next →",
+    "value": "Next →",
+    "_base_original": "Next →"
+  },
+  "blog/firstpost:title": {
+    "original": "This is my first post.",
+    "value": "This is my first post.",
+    "_base_original": "This is my first post."
+  },
+  "blog/fourthpost:prev-label": {
+    "original": "← Previous",
+    "value": "← Previous",
+    "_base_original": "← Previous"
+  },
+  "blog/fourthpost:title": {
+    "original": "This is my fourth post",
+    "value": "This is my fourth post",
+    "_base_original": "This is my fourth post"
+  },
+  "blog/secondpost:next-label": {
+    "original": "Next →",
+    "value": "Next →",
+    "_base_original": "Next →"
+  },
+  "blog/secondpost:prev-label": {
+    "original": "← Previous",
+    "value": "← Previous",
+    "_base_original": "← Previous"
+  },
+  "blog/secondpost:title": {
+    "original": "This is my second post with a much longer title.",
+    "value": "This is my second post with a much longer title.",
+    "_base_original": "This is my second post with a much longer title."
+  },
+  "blog/thirdpost:next-label": {
+    "original": "Next →",
+    "value": "Next →",
+    "_base_original": "Next →"
+  },
+  "blog/thirdpost:prev-label": {
+    "original": "← Previous",
+    "value": "← Previous",
+    "_base_original": "← Previous"
+  },
+  "blog/thirdpost:title": {
+    "original": "This is my third post.",
+    "value": "This is my third post.",
+    "_base_original": "This is my third post."
+  },
+  "footer:credit": {
+    "original": "\n\t\t\t\t<em>Built with <a href=\"https://www.11ty.dev/\">Eleventy v3.1.5</a></em>\n\t\t\t",
+    "value": "\n\t\t\t\t<em>Built with <a href=\"https://www.11ty.dev/\">Eleventy v3.1.5</a></em>\n\t\t\t",
+    "_base_original": "\n\t\t\t\t<em>Built with <a href=\"https://www.11ty.dev/\">Eleventy v3.1.5</a></em>\n\t\t\t"
+  },
+  "index:latest-posts-heading": {
+    "original": "Latest 3 Posts",
+    "value": "Latest 3 Posts",
+    "_base_original": "Latest 3 Posts"
+  },
+  "index:more-posts": {
+    "original": "1 more post can be found in <a href=\"/blog/\">the archive</a>.",
+    "value": "1 more post can be found in <a href=\"/blog/\">the archive</a>.",
+    "_base_original": "1 more post can be found in <a href=\"/blog/\">the archive</a>."
+  },
+  "nav:about": {
+    "original": "About",
+    "value": "About",
+    "_base_original": "About"
+  },
+  "nav:archive": {
+    "original": "Archive",
+    "value": "Archive",
+    "_base_original": "Archive"
+  },
+  "nav:feed": {
+    "original": "Feed",
+    "value": "Feed",
+    "_base_original": "Feed"
+  },
+  "nav:home": {
+    "original": "Home",
+    "value": "Home",
+    "_base_original": "Home"
+  },
+  "site-title": {
+    "original": "Eleventy Base Blog v9",
+    "value": "Eleventy Base Blog v9",
+    "_base_original": "Eleventy Base Blog v9"
+  },
+  "skip-link": {
+    "original": "Skip to main content",
+    "value": "Skip to main content",
+    "_base_original": "Skip to main content"
+  },
+  "tags:heading": {
+    "original": "Tags",
+    "value": "Tags",
+    "_base_original": "Tags"
+  },
+  "tags/another-tag:heading": {
+    "original": "Tagged \"another tag\"",
+    "value": "Tagged \"another tag\"",
+    "_base_original": "Tagged \"another tag\""
+  },
+  "tags/another-tag:see-all-tags": {
+    "original": "See <a href=\"/tags/\">all tags</a>.",
+    "value": "See <a href=\"/tags/\">all tags</a>.",
+    "_base_original": "See <a href=\"/tags/\">all tags</a>."
+  },
+  "tags/number-2:heading": {
+    "original": "Tagged \"number 2\"",
+    "value": "Tagged \"number 2\"",
+    "_base_original": "Tagged \"number 2\""
+  },
+  "tags/number-2:see-all-tags": {
+    "original": "See <a href=\"/tags/\">all tags</a>.",
+    "value": "See <a href=\"/tags/\">all tags</a>.",
+    "_base_original": "See <a href=\"/tags/\">all tags</a>."
+  },
+  "tags/posts-with-two-tags:heading": {
+    "original": "Tagged \"posts with two tags\"",
+    "value": "Tagged \"posts with two tags\"",
+    "_base_original": "Tagged \"posts with two tags\""
+  },
+  "tags/posts-with-two-tags:see-all-tags": {
+    "original": "See <a href=\"/tags/\">all tags</a>.",
+    "value": "See <a href=\"/tags/\">all tags</a>.",
+    "_base_original": "See <a href=\"/tags/\">all tags</a>."
+  },
+  "tags/second-tag:heading": {
+    "original": "Tagged \"second tag\"",
+    "value": "Tagged \"second tag\"",
+    "_base_original": "Tagged \"second tag\""
+  },
+  "tags/second-tag:see-all-tags": {
+    "original": "See <a href=\"/tags/\">all tags</a>.",
+    "value": "See <a href=\"/tags/\">all tags</a>.",
+    "_base_original": "See <a href=\"/tags/\">all tags</a>."
+  }
+}

@@ -34,10 +34,14 @@ export default function(eleventyConfig) {
 	});
 
 	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
-		return (tags || []).filter(tag => ["all", "posts"].indexOf(tag) === -1);
+		return (tags || []).filter(tag => ["all", "posts", "posts_fr"].indexOf(tag) === -1);
 	});
 
 	eleventyConfig.addFilter("sortAlphabetically", strings =>
 		(strings || []).sort((b, a) => b.localeCompare(a))
 	);
+
+	eleventyConfig.addFilter("roseySlug", (url) => {
+		return url.replace(/^\/|\/$/g, "") || "index";
+	});
 };

@@ -4,7 +4,7 @@ const pagination = {
 	data: "collections",
 	size: 1,
 	alias: "tag",
-	filter: ["all", "posts"],
+	filter: ["all", "posts", "posts_fr"],
 	// addAllPagesToCollections: true,
 };
 
@@ -19,9 +19,9 @@ const eleventyComputed = {
 	}
 };
 ---
-<h1>Tagged “{{ tag }}”</h1>
+<h1 data-rosey="heading">Tagged "{{ tag }}"</h1>
 
 {% set postslist = collections[ tag ] %}
 {% include "postslist.njk" %}
 
-<p>See <a href="tags.njk">all tags</a>.</p>
+<p data-rosey="see-all-tags">See <a href="tags.njk">all tags</a>.</p>

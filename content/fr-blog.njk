@@ -1,0 +1,9 @@
+---js
+const permalink = "/fr/blog/";
+const locale = "fr";
+const roseyRoot = "blog";
+---
+<h1 data-rosey="heading">Archive</h1>
+
+{% set postslist = collections.posts_fr %}
+{% include "postslist.njk" %}
