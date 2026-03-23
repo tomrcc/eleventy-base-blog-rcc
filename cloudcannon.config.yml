@@ -1,15 +1,28 @@
 paths:
-  static: ''
   uploads: uploads
+  static: ''
+collections_config:
+  pages:
+    path: content
+    glob:
+      - '!404.md'
+      - '!sitemap.xml.njk'
+      - '!tag-pages.njk'
+    icon: wysiwyg
+    url: /[slug]/
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  blog:
+    path: content/blog
+    icon: event_available
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
 timezone: Pacific/Auckland
 markdown:
   engine: commonmark
   options:
     html: true
-collections_config:
-  pages:
-    path: content
-    icon: wysiwyg
-  blog:
-    path: content/blog
-    icon: event_available
